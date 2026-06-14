@@ -1,0 +1,6 @@
+data/paysim dataset.csv
+
+__pycache__/
+*.pyc
+
+outputs/SAR_*.pdf
